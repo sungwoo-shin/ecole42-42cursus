@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"algorithm": "c",
+		"push_swap.h": "c",
+		"stdbool.h": "c",
+		"get_next_line.h": "c",
+		"libft.h": "c"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"philo_bonus.h": "c",
+		"stat.h": "c",
+		"_dev_t.h": "c",
+		"_blkcnt_t.h": "c",
+		"__locale": "c"
+	}
+}
